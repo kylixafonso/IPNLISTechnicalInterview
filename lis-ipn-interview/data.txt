@@ -1,0 +1,9 @@
+1,null,computer,null,null
+2,1,laptop,null,null
+3,2,HP,null,null
+4,3,HP 15-S,3,600.0
+5,2,COMPAQ,null,null
+6,5,COMPAQ 2lite,1,850.0
+7,null,MB,null,null
+8,7,ASUS MB 125,10,25.0
+9,7,HP MB 122,0,12.5
